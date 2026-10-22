@@ -1,0 +1,6 @@
+url: https://github.com/LUTAO581314/dsh-plugin-catalog
+name: LUTAO581314/dsh-plugin-catalog
+category: ui
+description:
+  en: 'Adds search and market-category grouping to the DSH Installed plugins page; market categories are recorded when a plugin is downloaded, and built-in and experimental plugins are listed under their own groups.'
+  zh: '在 DSH「已安装插件」页加入搜索，并按插件下载时所属的插件市场分类分组；内置与实验性插件分别归入「内置」「实验性」组。'
